@@ -1,4 +1,3 @@
-import React from "react";
 import RoundSquare from "./icons/RoundSquareIcon";
 import PlayIcon from "./icons/PlayIcon";
 import Feature from "./Feature";

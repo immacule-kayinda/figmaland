@@ -1,5 +1,3 @@
-import React from "react";
-
 type TitleWithSubtitleProps = {
   title: string;
 };
